@@ -75,4 +75,11 @@ A API deve permitir:
 * Organização do código em pastas (boa arquitetura).
 * Implementação correta dos middlewares.
 * Clareza do `README.md`.
+
+---
+
+## 📌 Guia passo-a-passo
+
+* Caso julgue necessário, preparei um [guia passo-a-passo](GUIA.md) para lhe auxiliar no desenvolvimento dessa atividade.
+
 ---
