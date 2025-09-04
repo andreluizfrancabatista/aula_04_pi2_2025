@@ -1,5 +1,5 @@
-# 🎮 Atividade Avaliativa 02 
-# API de Games
+# Atividade Avaliativa 02 
+# 🎮 API de Games
 
 ## 📌 Contexto
 
