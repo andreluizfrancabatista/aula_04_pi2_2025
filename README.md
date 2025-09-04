@@ -76,5 +76,3 @@ A API deve permitir:
 * Implementação correta dos middlewares.
 * Clareza do `README.md`.
 ---
-
-Quer que eu monte também um **roteiro passo a passo para os alunos seguirem (sem código, só guia)**, ou você prefere deixar aberto para ver como eles resolvem por conta própria?
